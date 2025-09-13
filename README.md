@@ -1,2 +1,2 @@
 # vAtom1.0
-Open source ultra-lightweight AI that you train yourself with json files as provided in the files and make your own this is not trained on default but can be trained using the format of the JSON files attached. vAtom v1.0 by Variable Technologies. (Public Release Version)
+Open source ultra-lightweight AI (Not really an ai but a Q&A automation through training since it doesnt learn independently 'AI will come in the next version vAtom2.0) that you train yourself with json files as provided in the files and make your own this is not trained on default but can be trained using the format of the JSON files attached. vAtom v1.0 by Variable Technologies. (Public Release Version).
